@@ -1,5 +1,4 @@
-# Moviepro.ai
-Movie Summarization and Paraphrasing with NLP and GPT-3
+
 This project explores the exciting world of Natural Language Processing (NLP) and its applications in movie data analysis and text paraphrasing. You'll leverage powerful tools like GPT-3 to build a sentence paraphrasing application.
 
 Project Goals
