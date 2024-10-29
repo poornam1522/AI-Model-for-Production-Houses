@@ -8,7 +8,6 @@ Collect and process movie data for analysis.
 Implement text vectorization using TF-IDF.
 Explore Named Entity Recognition (NER) and data visualization techniques.
 Build a sentence paraphrasing application using GPT-3.
-Deploy the paraphrasing application on AWS Lambda (optional).
 Key Learnings
 
 Core NLP concepts like text tokenization, TF-IDF, and word vectors.
@@ -17,7 +16,6 @@ Data visualization libraries like Streamlit.
 Using SpaCy for named entity recognition.
 Sentence Transformers and topic modeling.
 Building an AI-powered application with GPT-3.
-(Optional) Cloud deployment with AWS Lambda.
 Project Structure
 
 The project consists of several modules, each focusing on a specific NLP concept or application:
@@ -32,14 +30,12 @@ Implementation of TF-IDF for converting text data into numerical vectors.
 Data Analysis and Visualization:
 
 Exploration of movie data using NLP techniques.
-Creation of data visualizations with Streamlit (optional).
+Creation of data visualizations with Streamlit.
 Sentence Paraphrasing:
 
 Leveraging GPT-3 to generate paraphrases for sentences.
 Building a sentence paraphrasing application.
-Deployment (Optional):
 
-Deploying the paraphrasing application on AWS Lambda for real-world use (requires additional setup).
 Getting Started
 
 Clone this repository.
